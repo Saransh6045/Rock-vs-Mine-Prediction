@@ -28,12 +28,11 @@ Logistic Regression Model
 
 ## Methadology
 1. Data loading and preprocessing
-2. Handling missing values
-3. Feature-label separation
-4. Train-test split with stratification
-5. Model training using Logistic Regression
-6. Model evaluation using the accuracy score
-7. Single-input prediction using a reshaped input
+2. Feature-label separation
+3. Train-test split with stratification
+4. Model training using Logistic Regression
+5. Model evaluation using the accuracy score
+6. Single-input prediction using a reshaped input
 
 ## Results
 - Training Accuracy: 82%
