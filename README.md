@@ -23,7 +23,7 @@ There is a war going on between two countries. A submarine is going from one cou
 
 ## Model Used
 Logistic Regression Model
-Reason: It is a binary classification problem. We have to find whether the given object is a rock or a mine.
+- Reason: It is a binary classification problem. We have to find whether the given object is a rock or a mine.
 
 ## Methadology
 1. Data loading and preprocessing
