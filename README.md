@@ -18,6 +18,7 @@ There is a war going on between two countries. A submarine is going from one cou
 - Python
 - NumPy
 - Pandas
+- Matplotlib
 - Scikit-learn
 - Google Colab
 
